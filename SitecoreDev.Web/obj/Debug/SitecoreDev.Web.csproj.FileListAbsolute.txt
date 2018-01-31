@@ -43,3 +43,4 @@ C:\Projects\SitecoreDev\SitecoreDev.Web\bin\System.Web.Helpers.xml
 C:\Projects\SitecoreDev\SitecoreDev.Web\bin\System.Web.Mvc.xml
 C:\Projects\SitecoreDev\SitecoreDev.Web\obj\Debug\SitecoreDev.Web.dll
 C:\Projects\SitecoreDev\SitecoreDev.Web\obj\Debug\SitecoreDev.Web.pdb
+C:\Projects\SitecoreDev\SitecoreDev.Web\obj\Debug\SitecoreDev.Web.csprojResolveAssemblyReference.cache

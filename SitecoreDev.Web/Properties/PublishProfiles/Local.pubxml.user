@@ -13,31 +13,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/16/2018 16:27:11</publishTime>
     </File>
     <File Include="App_Config/Include/SitecoreDev/CustomFields.config">
-      <publishTime>01/19/2018 17:01:30</publishTime>
+      <publishTime>01/25/2018 13:41:40</publishTime>
     </File>
     <File Include="bin/ApplicationInsights.config">
       <publishTime>01/16/2018 16:27:11</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
-      <publishTime>12/07/2015 19:04:38</publishTime>
+      <publishTime>07/12/2015 19:04:38</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>03/10/2016 14:26:18</publishTime>
+      <publishTime>10/03/2016 14:26:18</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>03/09/2016 12:00:14</publishTime>
+      <publishTime>09/03/2016 12:00:14</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>03/09/2016 11:57:34</publishTime>
+      <publishTime>09/03/2016 11:57:34</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>06/15/2015 02:06:24</publishTime>
@@ -82,10 +82,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/SitecoreDev.Web.dll">
-      <publishTime>01/19/2018 17:02:48</publishTime>
+      <publishTime>01/25/2018 13:41:47</publishTime>
     </File>
     <File Include="bin/SitecoreDev.Web.pdb">
-      <publishTime>01/19/2018 17:02:48</publishTime>
+      <publishTime>01/25/2018 13:41:47</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>01/28/2015 05:04:30</publishTime>
@@ -190,7 +190,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/16/2018 16:35:01</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/19/2018 17:05:44</publishTime>
+      <publishTime>01/25/2018 13:41:54</publishTime>
     </File>
   </ItemGroup>
 </Project>

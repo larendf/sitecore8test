@@ -153,6 +153,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ComponentsController.cs" />
     <Compile Include="Custom\CreditCard.cs" />
+    <Compile Include="Custom\Validators\SsnValidator.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
