@@ -142,6 +142,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="App_Config\Include\SitecoreDev\CustomFields.config" />
+    <Content Include="App_Config\Include\SitecoreDev\SitecoreDev.TokenReplacements.config" />
     <None Include="scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
@@ -152,7 +153,8 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\ComponentsController.cs" />
-    <Compile Include="Custom\CreditCard.cs" />
+    <Compile Include="Custom\Fields\CreditCard.cs" />
+    <Compile Include="Custom\Tokens\ParentPathTokenProcessor.cs" />
     <Compile Include="Custom\Validators\SsnValidator.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

@@ -9,7 +9,7 @@ using Sitecore.Shell.Applications.ContentEditor;
 using Sitecore.Web;
 using Sitecore.Web.UI.Sheer;
 
-namespace SitecoreDev.Web.Custom
+namespace SitecoreDev.Web.Custom.Fields
 {
     public class CreditCard : Password
     {
